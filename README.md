@@ -1,1 +1,1 @@
-# Iris_datasets.
+This repository contains an exploration and analysis of the classic Iris dataset using Python. The Iris dataset is widely used in machine learning and statistics to demonstrate data visualization techniques, feature analysis, and classification models.
